@@ -23,7 +23,7 @@
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 1 : July 8 , 2018
+## Day 2 : July 8 , 2018
  
 **Today's Progress** : Picked [DeepFashion (Category and Attribute Prediction Benchmark)](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) dataset as the best one in my field. I've readed about cnn, object Detection, speed and accuracy comparing and so on. Installed darknet, watched videos about training and all that stuff. 
 
