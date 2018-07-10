@@ -41,3 +41,11 @@
     	- Profit!
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 3 : July 8 , 2018
+ 
+**Today's Progress** : My plans now in trello, so I can easilly set deadlines and watch my progress. I understand how to train yolo, still preparing attributes .csv and bbox. Bbox location in DeepFashion, like "x_1" and "y_1" represent the upper left point coordinate of bounding box, "x_2" and "y_2" represent the lower right point coordinate of bounding box. Bounding box locations are listed in the order of [x_1, y_1, x_2, y_2]. So I need to convert them into <x> <y> <width> <height> - float values relative to width and height of image, it can be equal from (0.0 to 1.0]
+
+**Thoughts** : First time with yolo, that should be interesting. I looked at Fashion Synthesis Benchmark and read paper, funny results:-), but pretty far away from my target. Don't want to use colab for training, so need to find a server for a couple days(or hours). Every day I try to put more time in 100DaysOfML, because compare to main work, less time, less results are anoying me.  
+
+**Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
