@@ -49,3 +49,17 @@
 **Thoughts** : First time with yolo, that should be interesting. I looked at Fashion Synthesis Benchmark and read paper, funny results:-), but pretty far away from my target. Don't want to use colab for training, so need to find a server for a couple days(or hours). Every day I try to put more time in 100DaysOfML, because compare to main work, less time, less results are anoying me.  
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 3 : July 8 , 2018
+ 
+**Today's Progress** : Still extracting features from annotation, pretty tough when your computer doesn't have enough memory. Working on solution. Founded annotation to yolo coordinates:
+![GitHub Logo](https://i.redd.it/6unjoj3jkmx01.png)
+
+- [x] list_eval_partition
+- [x] list_category_img
+- [x] list_bbox
+- [ ] list_attr_img
+
+**Thoughts** : I'll have more time at holidays, hope that I'll done label data. 
+
+**Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
