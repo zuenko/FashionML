@@ -23,7 +23,7 @@
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 2 : July 8 , 2018
+## Day 2 : July 9 , 2018
  
 **Today's Progress** : Picked [DeepFashion (Category and Attribute Prediction Benchmark)](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) dataset as the best one in my field. I've readed about cnn, object Detection, speed and accuracy comparing and so on. Installed darknet, watched videos about training and all that stuff. 
 
@@ -42,7 +42,7 @@
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 3 : July 8 , 2018
+## Day 3 : July 10 , 2018
  
 **Today's Progress** : My plans now in trello, so I can easilly set deadlines and watch my progress. I understand how to train yolo, still preparing attributes .csv and bbox. Bbox location in DeepFashion, like "x_1" and "y_1" represent the upper left point coordinate of bounding box, "x_2" and "y_2" represent the lower right point coordinate of bounding box. Bounding box locations are listed in the order of [x_1, y_1, x_2, y_2]. So I need to convert them into <x> <y> <width> <height> - float values relative to width and height of image, it can be equal from (0.0 to 1.0]
 
@@ -50,7 +50,7 @@
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 3 : July 8 , 2018
+## Day 4 : July 11 , 2018
  
 **Today's Progress** : Still extracting features from annotation, pretty tough when your computer doesn't have enough memory. Working on solution. Founded annotation to yolo coordinates:
 ![GitHub Logo](https://i.redd.it/6unjoj3jkmx01.png)
@@ -60,6 +60,14 @@
 - [x] list_bbox
 - [ ] list_attr_img
 
-**Thoughts** : I'll have more time at holidays, hope that I'll done label data. 
+**Thoughts** : I'll have more time at holidays, hope that I'll done label data, before them. 
+
+**Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 4 : July 12 , 2018
+ 
+**Today's Progress** : Merged almost all annotation(except atr), made yolo labels.
+
+**Thoughts** :  Still not enough memory for atr_labels, thinking about sparse matrix. Need to plot yolo box and compare to original. Yolo labels calculated with images height and width, hence shape of images may be different in img_highres and img datasets.
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
