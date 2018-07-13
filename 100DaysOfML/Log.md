@@ -53,6 +53,7 @@
 ## Day 4 : July 11 , 2018
  
 **Today's Progress** : Still extracting features from annotation, pretty tough when your computer doesn't have enough memory. Working on solution. Founded annotation to yolo coordinates:
+
 ![GitHub Logo](https://i.redd.it/6unjoj3jkmx01.png)
 
 - [x] list_eval_partition
@@ -64,7 +65,7 @@
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 4 : July 12 , 2018
+## Day 5 : July 12 , 2018
  
 **Today's Progress** : Merged almost all annotation(except atr), made yolo labels.
 
