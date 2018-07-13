@@ -9,6 +9,7 @@
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
 
+
 ## Day 1 : July 8 , 2018
  
 **Today's Progress** : For a couple of hours trying to figure out how to use a scrapy tool. It's much more complicated than you might think at the first time. Now reading and testing http://scrapingauthority.com/scrapyfundamentals/ , and hope that will help.
@@ -22,6 +23,7 @@
         - Then use ensembles to predict look, or find familiar look.
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
+
 
 ## Day 2 : July 9 , 2018
  
@@ -41,6 +43,7 @@
     	- Profit!
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
+
 
 ## Day 3 : July 10 , 2018
  
@@ -65,10 +68,20 @@
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
 
+
 ## Day 5 : July 12 , 2018
  
 **Today's Progress** : Merged almost all annotation(except atr), made yolo labels.
 
 **Thoughts** :  Still not enough memory for atr_labels, thinking about sparse matrix. Need to plot yolo box and compare to original. Yolo labels calculated with images height and width, hence shape of images may be different in img_highres and img datasets.
+
+**Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
+
+
+## Day 6 : July 13 , 2018
+ 
+**Today's Progress** : Atributes annotation done, dtypes yay! I plotted box with yolo labels, so yep, it not working, or plotter is bad. 
+
+**Thoughts** :  Find out how to plot, what resolution of images. 
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
