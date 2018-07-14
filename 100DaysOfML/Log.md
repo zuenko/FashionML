@@ -85,3 +85,13 @@
 **Thoughts** :  Find out how to plot, what resolution of images. 
 
 **Link to work:** [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 7 : July 14 , 2018
+ 
+**Today's Progress** : Still try to find best solution for converting. With img_highres all fine, plotted original coordinates. Also made another repository where I'll implement ML algo, while training and other stuff.  
+
+**Thoughts** :  Perhaps something wrong in plotter. I've tried different computation for yolo, but everything seemd logical.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+- [Ml_algo_from_scratch](https://github.com/zuenko/Ml_algo_from_scratch)
