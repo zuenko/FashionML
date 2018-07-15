@@ -95,3 +95,17 @@
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
 - [Ml_algo_from_scratch](https://github.com/zuenko/Ml_algo_from_scratch)
+
+## Day 8 : July 15 , 2018
+ 
+**Today's Progress** : Done testing! All works fine, finaly! Working out on yolo format for training and testing. And I'm writing an article about my progress.
+Done:
+- [x] Yolo labels
+- [x] Ploting
+- [x] Converting
+- [x] testing
+
+**Thoughts** : Need to understand how to store labels for image, as I saw in the instruction that we need .txt file for each image, but where should we put that? What is .data and .names? 
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
