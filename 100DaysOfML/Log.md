@@ -27,7 +27,7 @@
 
 ## Day 2 : July 9 , 2018
  
-**Today's Progress** : Picked [DeepFashion (Category and Attribute Prediction Benchmark)](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) dataset as the best one in my field. I've red about cnn, object Detection, speed and accuracy comparing and so on. Installed darknet, watched videos about training and all that stuff. 
+**Today's Progress** : Picked [DeepFashion (Category and Attribute Prediction Benchmark)](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion/AttributePrediction.html) dataset as the best one in my field. I've readed about cnn, object Detection, speed and accuracy comparing and so on. Installed darknet, watched videos about training and all that stuff. 
 
 **Thoughts** : Want to figure out how to make dataset with good clothes combination, stylists? Also, yolo seemed pretty accurate and fast, but ssd pretty tough and mobilenet the fastest. And if I make the combination, can we actually use classic trees models or we need deep learning in that? So I have changed:
     
@@ -47,7 +47,7 @@
 
 ## Day 3 : July 10 , 2018
  
-**Today's Progress** : My plans now in trello, so I can easily set deadlines and watch my progress. I understand how to train yolo, still preparing attributes .csv and bbox. Bbox location in DeepFashion, like "x_1" and "y_1" represent the upper left point coordinate of bounding box, "x_2" and "y_2" represent the lower right point coordinate of bounding box. Bounding box locations are listed in the order of [x_1, y_1, x_2, y_2]. So I need to convert them into <x> <y> <width> <height> - float values relative to width and height of image, it can be equal from (0.0 to 1.0]
+**Today's Progress** : My plans now in trello, so I can easilly set deadlines and watch my progress. I understand how to train yolo, still preparing attributes .csv and bbox. Bbox location in DeepFashion, like "x_1" and "y_1" represent the upper left point coordinate of bounding box, "x_2" and "y_2" represent the lower right point coordinate of bounding box. Bounding box locations are listed in the order of [x_1, y_1, x_2, y_2]. So I need to convert them into <x> <y> <width> <height> - float values relative to width and height of image, it can be equal from (0.0 to 1.0]
 
 **Thoughts** : First time with yolo, that should be interesting. I looked at Fashion Synthesis Benchmark and read paper, funny results:-), but pretty far away from my target. Don't want to use colab for training, so need to find a server for a couple days(or hours). Every day I try to put more time in 100DaysOfML, because compare to main work, less time, less results are anoying me.  
 
@@ -80,7 +80,7 @@
 
 ## Day 6 : July 13 , 2018
  
-**Today's Progress** : Attributes annotation done, dtypes yay! I plotted box with yolo labels, so yep, it not working, or plotter is bad. 
+**Today's Progress** : Atributes annotation done, dtypes yay! I plotted box with yolo labels, so yep, it not working, or plotter is bad. 
 
 **Thoughts** :  Find out how to plot, what resolution of images. 
 
@@ -90,7 +90,7 @@
  
 **Today's Progress** : Still try to find best solution for converting. With img_highres all fine, plotted original coordinates. Also made another repository where I'll implement ML algo, while training and other stuff.  
 
-**Thoughts** :  Perhaps something wrong in plotter. I've tried different computation for yolo, but everything seems logical.
+**Thoughts** :  Perhaps something wrong in plotter. I've tried different computation for yolo, but everything seemd logical.
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
@@ -98,14 +98,23 @@
 
 ## Day 8 : July 15 , 2018
  
-**Today's Progress** : Done testing! All works fine, finally! Working out on yolo format for training and testing. And I'm writing an article about my progress.
+**Today's Progress** : Done testing! All works fine, finaly! Working out on yolo format for training and testing. And I'm writing an article about my progress.
 Done:
 - [x] Yolo labels
-- [x] Plotting
+- [x] Ploting
 - [x] Converting
 - [x] testing
 
-**Thoughts** : Need to understand how to store labels for image, as I saw in the instruction that we need .txt file for each image, but where should we put that? What is .data and .names? Also, seems that we need another model for landmarks, unfortunately.
+**Thoughts** : Need to understand how to store labels for image, as I saw in the instruction that we need .txt file for each image, but where should we put that? What is .data and .names? 
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 9 : July 16 , 2018
+ 
+**Today's Progress** : Prepared yolo files, started to train, but got a couple of problems. That thing try to cath files that doesn't exist :-)
+
+**Thoughts** : That pathes not inside, need to check train.txt, test.txt. And preparation script.
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
