@@ -118,3 +118,27 @@ Done:
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 10 : July 17 , 2018
+ 
+**Today's Progress** : Solving problems with zero loss, nans etc. In process of training.
+
+**Thoughts** : Mybe I need to switch from darknet tool to another? Because I'm not the only one who has a problems with that tool. Creat an issue in github and google group. 
+Links:
+- [Github](https://github.com/pjreddie/darknet/issues/980)
+- [Google Group](https://groups.google.com/forum/#!topic/darknet/yBPBEXRDhKY)
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 11 : July 18 , 2018
+ 
+**Today's Progress** : Solving problems with zero loss, nans etc. In process of training. Same as before. Writing article.
+
+**Thoughts** : Mybe I need to switch from darknet tool to another? Because I'm not the only one who has a problems with that tool. Creat an issue in github and google group. 
+Links:
+- [Github](https://github.com/pjreddie/darknet/issues/980)
+- [Google Group](https://groups.google.com/forum/#!topic/darknet/yBPBEXRDhKY)
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
