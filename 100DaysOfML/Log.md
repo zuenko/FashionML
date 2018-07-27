@@ -142,3 +142,75 @@ Links:
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 12 : July 19 , 2018
+ 
+**Today's Progress** : Tired of yolo. Today, I watched a couple courses about deep-learning, read papers about another architecture, youtube reviews of them and so on. Today is the research day.
+
+**Thoughts** : SSD might be useful or fast rcnn, need to check tensorflow's models.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 13 : July 20 , 2018
+ 
+**Today's Progress** : Learning about yolo, caffe, pytorch. For now, I'm comparing each model, because we don't need low fps. 
+
+**Thoughts** : Hope ssd will solve my problem.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 14 : July 21 , 2018
+ 
+**Today's Progress** : Find a couple implementations of SSD (single shot detector), installed all depencies.
+
+**Thoughts** : Loking for good tf implementation, but fps in a different ranges.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 15 : July 22 , 2018
+ 
+**Today's Progress** : Reinstalled ubuntu. With good cuda drivers. Watched lectures about pytorch.
+
+**Thoughts** : Hate that feeling, when there are no good implementation. 
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 16 : July 23 , 2018
+ 
+**Today's Progress** : Learning pytorch, reading Goodfellow.
+
+**Thoughts** : Testing ssd, a bit.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 17 : July 24 , 2018
+ 
+**Today's Progress** : Learning pytorch, reading Goodfellow.
+
+**Thoughts** : Testing ssd, a bit.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 18 : July 25 , 2018
+ 
+**Today's Progress** : Fixed yolo, trying to find GPU server for free.
+
+**Thoughts** : CPU may be too slow for me.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 19 : July 26 , 2018
+ 
+**Today's Progress** : Something wrong with yolo, checking again.
+
+**Thoughts** : Whats wrong, again.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
