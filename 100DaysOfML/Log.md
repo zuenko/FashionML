@@ -214,3 +214,12 @@ Links:
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 20 : July 27 , 2018
+ 
+**Today's Progress** : Training yolo, tuning hyperparams.
+
+**Thoughts** : Thinking about other models.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
