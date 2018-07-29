@@ -223,3 +223,25 @@ Links:
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
+
+
+## Day 21 : July 28 , 2018
+ 
+**Today's Progress** : Training yolo, tuning hyperparams.
+
+**Thoughts** : Thinking about other models.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+
+## Day 22 : July 29 , 2018
+ 
+**Today's Progress** : Training yolo, tuning hyperparams. Learning basics, couresra into to deep-learning.
+
+**Thoughts** : Thinking about other models.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+
