@@ -245,3 +245,11 @@ Links:
 - [Fashion ML](https://github.com/zuenko/FashionML)
 
 
+## Day 23 : July 30 , 2018
+ 
+**Today's Progress** : I stopped training and testing yolo. A lot of problems, accuracy not improving. Played with lr and other params, same thing. 
+
+**Thoughts** : Tensorflow models figuring out how to implement object detection.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
