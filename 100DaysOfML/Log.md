@@ -253,3 +253,12 @@ Links:
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 24 : July 31 , 2018
+ 
+**Today's Progress** : Learning [Intro-to-deep-learning](https://www.coursera.org/learn/intro-to-deep-learning)
+
+**Thoughts** : fast.ai? 
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
