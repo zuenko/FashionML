@@ -262,3 +262,30 @@ Links:
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 25 : August 1, 2018
+ 
+**Today's Progress** : Continue learning [Intro-to-deep-learning](https://www.coursera.org/learn/intro-to-deep-learning)
+
+**Thoughts** : Tasks a bit complicated
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 26 : August 2, 2018
+ 
+**Today's Progress** : Continue learning [Intro-to-deep-learning](https://www.coursera.org/learn/intro-to-deep-learning)
+
+**Thoughts** : Towards data science on medium help me with understanding.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 27 : August 2, 2018
+ 
+**Today's Progress** : Pytorch day and lectures
+
+**Thoughts** : Need to do something with learning yolo. Maybe pic not good enough.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
