@@ -281,11 +281,47 @@ Links:
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 27 : August 2, 2018
+## Day 27 : August 3, 2018
  
 **Today's Progress** : Pytorch day and lectures
 
 **Thoughts** : Need to do something with learning yolo. Maybe pic not good enough.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 28 : August 4, 2018
+ 
+**Today's Progress** : Goodfellow deep-learning intro-to-deep-learning
+
+**Thoughts** : Reading about tasks in computer vision - good idea.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 29 : August 5, 2018
+ 
+**Today's Progress** : Pytorch day
+
+**Thoughts** : Research day.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 27 : August 7, 2018
+ 
+**Today's Progress** : Pytorch day and lectures
+
+**Thoughts** : Deep-Learning book notes are perfect for understanding math deeply.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 27 : August 8, 2018
+ 
+**Today's Progress** : Goodfellow day
+
+**Thoughts** : Reading notes.
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
