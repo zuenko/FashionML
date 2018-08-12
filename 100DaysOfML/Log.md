@@ -308,7 +308,7 @@ Links:
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 27 : August 7, 2018
+## Day 30 : August 7, 2018
  
 **Today's Progress** : Pytorch day and lectures
 
@@ -317,7 +317,7 @@ Links:
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 27 : August 8, 2018
+## Day 31 : August 8, 2018
  
 **Today's Progress** : Goodfellow day
 
@@ -325,3 +325,40 @@ Links:
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 32 : August 9, 2018
+ 
+**Today's Progress** : Goodfellow day
+
+**Thoughts** : Reading notes.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 33 : August 10, 2018
+ 
+**Today's Progress** : Goodfellow day
+
+**Thoughts** : Reading notes.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 33 : August 11, 2018
+ 
+**Today's Progress** : Intro-to-dl day. Learned about autoencoders.
+
+**Thoughts** : Reading notes.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 34 : August 12, 2018
+ 
+**Today's Progress** : Intro-to-dl finished 4 week, learned about GANs.
+
+**Thoughts** : Reading notes.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
