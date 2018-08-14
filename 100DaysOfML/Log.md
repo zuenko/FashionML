@@ -346,7 +346,7 @@ Links:
 
 ## Day 33 : August 11, 2018
  
-**Today's Progress** : Intro-to-dl day. Learned about autoencoders.
+**Today's Progress** : Intro-to-dl day. Learned about auto-encoders.
 
 **Thoughts** : Reading notes.
 
@@ -358,6 +358,24 @@ Links:
 **Today's Progress** : Intro-to-dl finished 4 week, learned about GANs.
 
 **Thoughts** : Reading notes.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 35 : August 13, 2018
+ 
+**Today's Progress** : Reading articles and watching videos about pytorch. Experimenting with yolo 
+
+**Thoughts** : New config in yolo, called - yolov3-spp, let's try it.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 3 : August 14, 2018
+ 
+**Today's Progress** : Training yolo. 
+
+**Thoughts** : Preparing for article writing. 
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
