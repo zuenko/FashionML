@@ -371,11 +371,29 @@ Links:
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 3 : August 14, 2018
+## Day 36 : August 14, 2018
  
 **Today's Progress** : Training yolo. 
 
 **Thoughts** : Preparing for article writing. 
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 37 : August 15, 2018
+ 
+**Today's Progress** : Training yolo. 
+
+**Thoughts** : Preparing for article writing. 
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 37 : August 16, 2018
+ 
+**Today's Progress** : Yolo not improving, looking forward just classification methods. 
+
+**Thoughts** : Maybe something wrong with my labels.
 
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
