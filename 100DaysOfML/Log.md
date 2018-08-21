@@ -389,7 +389,7 @@ Links:
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
 
-## Day 37 : August 16, 2018
+## Day 38 : August 16, 2018
  
 **Today's Progress** : Yolo not improving, looking forward just classification methods. 
 
@@ -398,3 +398,47 @@ Links:
 **Link to work:** 
 - [Fashion ML](https://github.com/zuenko/FashionML)
 
+## Day 39 : August 17, 2018
+ 
+**Today's Progress** : Start first experiments with pytorch
+
+**Thoughts** : Lectures are very helpfull.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 40 : August 18, 2018
+ 
+**Today's Progress** : Tensorboard+pytorch
+
+**Thoughts** : A lot of various tools around for visualization.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 41 : August 19, 2018
+ 
+**Today's Progress** : Overview inside the dataset.  
+
+**Thoughts** : Something wrong with dataset, I don't know the purpose of boxes. 
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 42 : August 20, 2018
+ 
+**Today's Progress** : First nn in pytorch. 
+
+**Thoughts** : Just amazing tool.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
+
+## Day 21 : August 21, 2018
+ 
+**Today's Progress** : Start writing transfer learning for deepfashion.
+
+**Thoughts** : Want to do good dataset prepartion.
+
+**Link to work:** 
+- [Fashion ML](https://github.com/zuenko/FashionML)
